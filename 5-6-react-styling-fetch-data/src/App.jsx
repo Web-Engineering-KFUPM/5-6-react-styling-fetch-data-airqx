@@ -270,7 +270,7 @@ Requirements (write EXACT behavior):
   }
 
   return (
-    <div className="app">
+    <div className="app">  
       {/* TODO 1.1: Set header className EXACTLY as in lab instructions */}
       <header className="bg-primary text-white py-3 mb-4 shadow">
         <Container>
